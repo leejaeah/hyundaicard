@@ -1,6 +1,0 @@
-문제점 1: 
-content1 : menu 누르면 해당 콘텐츠에 스크롤이 안됨.  script가 안먹힘[해결]
-
-content3 : 애니메이션 넣으면 이미지가 사라짐
-
-content4 box1 svg 넣었을 때 색상 변경이 안됨[해결]
